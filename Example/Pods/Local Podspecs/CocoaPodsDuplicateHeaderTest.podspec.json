@@ -1,0 +1,23 @@
+{
+  "name": "CocoaPodsDuplicateHeaderTest",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaPodsDuplicateHeaderTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kylefleming/CocoaPodsDuplicateHeaderTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kylefleming": "kyle@kylefleming.net"
+  },
+  "source": {
+    "git": "https://github.com/kylefleming/CocoaPodsDuplicateHeaderTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoaPodsDuplicateHeaderTest/Classes/**/*",
+  "header_mappings_dir": "CocoaPodsDuplicateHeaderTest/Classes"
+}

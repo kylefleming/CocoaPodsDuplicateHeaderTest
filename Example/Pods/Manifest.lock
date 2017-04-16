@@ -1,0 +1,16 @@
+PODS:
+  - CocoaPodsDuplicateHeaderTest (0.1.0)
+
+DEPENDENCIES:
+  - CocoaPodsDuplicateHeaderTest (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaPodsDuplicateHeaderTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaPodsDuplicateHeaderTest: 640bcf94e8ab625bcae4ad396477e4ec96fcc6a5
+
+PODFILE CHECKSUM: 1fbbe555c5242ddd206a162e7a13b3ec92cf529b
+
+COCOAPODS: 1.2.1

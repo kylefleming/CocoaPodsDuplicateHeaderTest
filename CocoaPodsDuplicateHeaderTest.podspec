@@ -24,13 +24,14 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/kylefleming/CocoaPodsDuplicateHeaderTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'kylefleming' => 'garthex@gmail.com' }
+  s.author           = { 'kylefleming' => 'kyle@kylefleming.net' }
   s.source           = { :git => 'https://github.com/kylefleming/CocoaPodsDuplicateHeaderTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'CocoaPodsDuplicateHeaderTest/Classes/**/*'
+  s.header_mappings_dir = 'CocoaPodsDuplicateHeaderTest/Classes'
   
   # s.resource_bundles = {
   #   'CocoaPodsDuplicateHeaderTest' => ['CocoaPodsDuplicateHeaderTest/Assets/*.png']

@@ -1,0 +1,1 @@
+../../../../../../CocoaPodsDuplicateHeaderTest/Classes/Submodule/SomeHeader.h
