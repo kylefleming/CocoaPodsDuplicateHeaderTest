@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CocoaPodsDuplicateHeaderTest_Example' do
+  pod 'CocoaPodsDuplicateHeaderTest', :path => '../'
+
+  target 'CocoaPodsDuplicateHeaderTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
