@@ -6,11 +6,11 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   CocoaPodsDuplicateHeaderTest:
-    :path: "../"
+    :path: ../
 
 SPEC CHECKSUMS:
-  CocoaPodsDuplicateHeaderTest: 640bcf94e8ab625bcae4ad396477e4ec96fcc6a5
+  CocoaPodsDuplicateHeaderTest: 4cb18f016f6b5ae72d6a97086249d33598f2a9fe
 
 PODFILE CHECKSUM: 1fbbe555c5242ddd206a162e7a13b3ec92cf529b
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.3.0.beta.3
